@@ -2,6 +2,9 @@
 
 A Python-based combat simulator inspired by League of Legends champions.
 
+![LoL Simulator Demo](assets/demo.png)
+*A basic combat loop showcasing Jhin's 4th shot bonus damage mechanic*
+
 This project explores different gameplay systems by building each champion as their own mini-game.
 
 ---
