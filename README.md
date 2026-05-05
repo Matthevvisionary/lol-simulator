@@ -2,24 +2,22 @@
 
 A Python-based combat simulator inspired by League of Legends champions.
 
-![LoL Simulator Demo](assets/demo.png)
-*A basic combat loop showcasing Jhin's 4th shot bonus damage mechanic*
-
-This project explores different gameplay systems by building each champion as their own mini-game.
+![LoL Simulator Demo](assets/demo2.png)
+*A basic combat loop showcasing Yone's half physical, half magic damage passive that occurs every other auto attack.*
 
 ---
 
 ## Current Version
-v0.1.0 — Initial Release (Prototype): Jhin's Killer Performance
+v0.2.0 
 
 ---
 
 ## Features
-
+- Champion selection of two champions
 - Basic combat loop
 - Jhin’s 4th shot bonus damage mechanic
+- Yone passive
 - HP clamping (no negative health)
-- User input-based attacks
 
 ---
 
@@ -37,8 +35,8 @@ python main.py
 
 ## Roadmap
 
-- Add multiple champions
-- Introduce different enemy types
+- More champions
+- Add unique enemy types specific to champion lore
 
 ---
 
